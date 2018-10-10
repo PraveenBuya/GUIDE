@@ -1,0 +1,2 @@
+Maven Archetype
+https://howtodoinjava.com/maven/maven-custom-archetype/
